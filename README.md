@@ -1,6 +1,6 @@
 # Job Mobile App
 
-It is a Job app built using the Android framework.
+JobHub is a simple job search app that uses Restful APIs to fetch job listings and display them to the user and provide the user with the ability to chat with the employer.
 
 ## Screenshots
 
